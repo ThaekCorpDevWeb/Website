@@ -1,0 +1,1265 @@
+[14:14:10] [INFO] LaunchFrameHelpers.printInfo:29: FTBLaunch starting up (version 1.3.14 Build: 10314)
+[14:14:10] [INFO] JGoogleAnalyticsTracker$2.run:484: AnalyticsBackgroundThread started
+[14:14:10] [INFO] LaunchFrameHelpers.printInfo:30: Java version: 1.7.0_55
+[14:14:10] [INFO] LaunchFrameHelpers.printInfo:31: Java vendor: Oracle Corporation
+[14:14:10] [INFO] LaunchFrameHelpers.printInfo:32: Java home: D:\Program Files\Java\jre7
+[14:14:10] [INFO] LaunchFrameHelpers.printInfo:33: Java specification: Java Virtual Machine Specification version: 1.7 by Oracle Corporation
+[14:14:10] [INFO] LaunchFrameHelpers.printInfo:35: Java vm: Java HotSpot(TM) 64-Bit Server VM version: 24.55-b03 by Oracle Corporation
+[14:14:10] [INFO] LaunchFrameHelpers.printInfo:36: OS: Windows 8.1 6.3 (64-bit)
+[14:14:10] [INFO] LaunchFrameHelpers.printInfo:37: Launcher Install Dir: D:\wamp\www\Recrutements V2\admin2\img
+[14:14:10] [INFO] LaunchFrameHelpers.printInfo:38: System memory: 5401M free, 8173M total
+[14:14:12] [INFO] JavaFinder.parseJavaVersion:157: The FTB Launcher has found the following Java versions installed:
+[14:14:12] [INFO] JavaFinder.parseJavaVersion:159: Java Version: 1.7.0_55 sorted as: 1.7.0_55 32 Bit Java at : C:\Program Files (x86)\Java\jre7\bin\java.exe
+[14:14:12] [INFO] JavaFinder.parseJavaVersion:159: Java Version: 1.7.0_55 sorted as: 1.7.0_55 64 Bit Java at : D:\Program Files\Java\jre7\bin\java.exe
+[14:14:12] [INFO] JavaFinder.parseJavaVersion:159: Java Version: 1.7.0_55 sorted as: 1.7.0_55 64 Bit Java at : D:\Program Files\Java\jdk1.7.0_55\bin\java.exe
+[14:14:12] [INFO] JavaFinder.parseJavaVersion:159: Java Version: 1.7.0_51 sorted as: 1.7.0_51 64 Bit Java at : C:\Program Files\Java\jdk1.7.0_51\bin\java.exe
+[14:14:12] [INFO] JavaFinder.parseJavaVersion:159: Java Version: 1.7.0_55 sorted as: 1.7.0_55 64 Bit Java at : C:\Windows\system32\java.exe
+[14:14:12] [INFO] JavaFinder.parseJavaVersion:159: Java Version: 1.7.0_55 sorted as: 1.7.0_55 32 Bit Java at : C:\Windows\SysWOW64\java.exe
+[14:14:12] [INFO] JavaFinder.parseJavaVersion:159: Java Version: 1.7.0_55 sorted as: 1.7.0_55 64 Bit Java at : D:\Program Files\Java\jre7\bin\javaw.exe
+[14:14:12] [INFO] JavaFinder.parseJavaVersion:185: Preferred: Java Version: 1.7.0_55 sorted as: 1.7.0_55 64 Bit Java at : D:\Program Files\Java\jre7\bin\java.exe
+[14:14:12] [INFO] DownloadUtils.run:349: DownloadUtils.run() starting
+[14:14:12] [INFO] I18N.addFiles:130: [i18n] Fallback enUS loaded
+[14:14:12] [INFO] I18N.setLocale:153: [i18n] enUS English language file loaded!
+[14:14:12] [INFO] DownloadUtils.run:375: Balance has selected Automatic:CreeperRepo
+[14:14:12] [INFO] LocaleUpdater.run:76: [i18n] Checking for updates ...
+[14:14:13] [INFO] DownloadUtils.run:429: DL ready
+[14:14:13] [INFO] DownloadUtils.run:461: Using download server Automatic:Maidenhead on host england1.creeperrepo.net (82.145.45.43)
+[14:14:33] [WARN] ChooseDir.actionPerformed:110: No Selection.
+[14:14:44] [INFO] ChooseDir.actionPerformed:106: getCurrentDirectory(): D:\wamp\www
+[14:14:44] [INFO] ChooseDir.actionPerformed:107: getSelectedFile() : D:\wamp\www\FTB
+[14:14:46] [INFO] LaunchFrameHelpers.googleAnalytics:116: Reporting daily use
+[14:14:46] [INFO] OptionsPane.<init>:155: [i18n] Added 0 enUS to options pane
+[14:14:46] [INFO] I18N.setLocale:153: [i18n] enUS English language file loaded!
+[14:14:46] [INFO] ModpackLoader.run:60: Loading modpack information for modpacks.xml...
+[14:14:47] [INFO] ModpacksPane$8.run:315: Adding pack 1 (Monster)
+[14:14:47] [INFO] AuthlibDLWorker.doInBackground:69: Adding Authlib to Classpath
+[14:14:47] [INFO] ModpacksPane$8.run:315: Adding pack 2 (Pax East 2014 Map)
+[14:14:47] [INFO] ModpacksPane$8.run:315: Adding pack 3 (Direwolf20)
+[14:14:48] [INFO] ModpacksPane$8.run:315: Adding pack 4 (Horizons)
+[14:14:48] [INFO] ModpacksPane$8.run:315: Adding pack 5 (Tech World 2)
+[14:14:48] [INFO] ModpacksPane$8.run:315: Adding pack 6 (Magic World 2)
+[14:14:48] [INFO] ModpacksPane$8.run:315: Adding pack 7 (FTBLite2)
+[14:14:49] [INFO] ModpacksPane$8.run:315: Adding pack 8 (FTB Unleashed)
+[14:14:49] [INFO] ModpacksPane$8.run:315: Adding pack 9 (FTB Ultimate)
+[14:14:49] [INFO] ModpacksPane$8.run:315: Adding pack 10 (Unstable 1.7.2)
+[14:14:49] [INFO] ModpacksPane$8.run:315: Adding pack 11 (FTB Lite)
+[14:14:50] [INFO] ModpacksPane$8.run:315: Adding pack 12 (Magic Farm 2:Adventures in Technology)
+[14:14:50] [INFO] ModpacksPane$8.run:315: Adding pack 13 (BloodNBones)
+[14:14:50] [INFO] ModpacksPane$8.run:315: Adding pack 14 (Agrarian Skies: Hardcore Quest)
+[14:14:51] [INFO] ModpacksPane$8.run:315: Adding pack 15 (Voxel)
+[14:14:51] [INFO] ModpacksPane$8.run:315: Adding pack 16 (Infamy)
+[14:14:51] [INFO] ModpacksPane$8.run:315: Adding pack 17 (Lapito's Galacticraft Modpack)
+[14:14:51] [INFO] ModpacksPane$8.run:315: Adding pack 18 (Direwolf20 1.5 v2)
+[14:14:51] [INFO] ModpacksPane$8.run:315: Adding pack 19 (Direwolf20 Pack)
+[14:14:52] [INFO] ModpacksPane$8.run:315: Adding pack 20 (MindCrack Pack)
+[14:14:52] [INFO] ModpacksPane$8.run:315: Adding pack 21 (YogCraft Modpack)
+[14:14:52] [INFO] ModpacksPane$8.run:315: Adding pack 22 (FTB Unhinged)
+[14:14:52] [INFO] ModpacksPane$8.run:315: Adding pack 23 (New World Mod Pack)
+[14:14:53] [INFO] ModpacksPane$8.run:315: Adding pack 24 (RPG Immersion Pack)
+[14:14:54] [INFO] ModpacksPane$8.run:315: Adding pack 25 (BronyModPack)
+[14:14:54] [INFO] ModpacksPane$8.run:315: Adding pack 26 (Ampz Modpack)
+[14:14:54] [INFO] ModpacksPane$8.run:315: Adding pack 27 (VoxelModPack)
+[14:14:55] [INFO] ModpacksPane$8.run:315: Adding pack 28 (Magic Farm)
+[14:14:55] [INFO] ModpacksPane$8.run:315: Adding pack 29 (Magic World)
+[14:14:55] [INFO] ModpacksPane$8.run:315: Adding pack 30 (Tech World)
+[14:14:55] [INFO] ModpacksPane$8.run:315: Adding pack 31 (Pax Challenge Pack)
+[14:14:55] [INFO] ModpacksPane$8.run:315: Adding pack 32 (Feed The Beast Retro SSP)
+[14:14:55] [INFO] ModpacksPane$8.run:315: Adding pack 33 (Feed The Beast Retro SMP)
+[14:14:56] [INFO] ModpacksPane$8.run:315: Adding pack 34 (Slow's Stream Pack)
+[14:14:56] [INFO] MapLoader.run:42: loading map information...
+[14:14:56] [INFO] TexturePackLoader.run:42: loading texture pack information...
+[14:14:56] [INFO] ModpacksPane$8.run:315: Adding pack 35 (Feed The Beast Beta Pack A)
+[14:14:56] [INFO] MapsPane$4.run:230: Adding map 1 (Agrarian Skies Default Map)
+[14:14:56] [INFO] TexturepackPane$4.run:229: Adding texture pack 1 (Soartex Fanver)
+[14:14:57] [INFO] MapsPane$4.run:230: Adding map 2 (Agrarian Skies Flat Map)
+[14:14:57] [INFO] TexturepackPane$4.run:229: Adding texture pack 2 (Jadedcat Mixpack)
+[14:14:57] [INFO] MapsPane$4.run:230: Adding map 3 (Agrarian Skies Server Map)
+[14:14:57] [INFO] TexturepackPane$4.run:229: Adding texture pack 3 (Faithful)
+[14:14:57] [INFO] MapsPane$4.run:230: Adding map 4 (Direwolf20 Map Ep.0)
+[14:14:57] [INFO] MapsPane$4.run:230: Adding map 5 (FTB Pax Challenge)
+[14:14:57] [INFO] TexturepackPane$4.run:229: Adding texture pack 4 (JohnSmith Technicians Remix)
+[14:14:57] [INFO] MapsPane$4.run:230: Adding map 6 (Direwolf20 Map Ep.0)
+[14:14:57] [INFO] TexturepackPane$4.run:229: Adding texture pack 5 (Familiar yet Different)
+[14:14:57] [INFO] MapsPane$4.run:230: Adding map 7 (Direwolf20 Map Ep.10)
+[14:14:58] [INFO] TexturepackPane$4.run:229: Adding texture pack 6 (Love And Tolerance)
+[14:14:58] [INFO] MapsPane$4.run:230: Adding map 8 (Direwolf20 Map Ep.20)
+[14:14:58] [INFO] MapsPane$4.run:230: Adding map 9 (Direwolf20 Map Ep.30)
+[14:14:58] [INFO] MapsPane$4.run:230: Adding map 10 (Direwolf20 Map Ep.40)
+[14:14:58] [INFO] MapsPane$4.run:230: Adding map 11 (Direwolf20 Map Ep.50)
+[14:14:58] [INFO] MapsPane$4.run:230: Adding map 12 (Direwolf20 Map Ep.80)
+[14:14:58] [INFO] MapsPane$4.run:230: Adding map 13 (FTB Normal)
+[14:14:58] [INFO] MapsPane$4.run:230: Adding map 14 (FTB Insanity)
+[14:17:26] [INFO] LaunchFrame.doLogin:689: Logging in...
+[14:17:26] [INFO] AuthlibHelper.authenticateWithAuthlib:44: Beginning authlib authentication attempt
+[14:17:26] [INFO] AuthlibHelper.authenticateWithAuthlib:45: successfully created YggdrasilAuthenticationService
+[14:17:26] [ERROR] YggdrasilAuthenticationService.makeRequest:63->AuthlibHelper.authenticateWithAuthlib:66: Invalid credentials recieved for user: plasma77515@gmail.com: com.mojang.authlib.exceptions.InvalidCredentialsException: Invalid credentials. Invalid username or password.
+com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:63)
+com.mojang.authlib.yggdrasil.YggdrasilUserAuthentication.logInWithPassword(YggdrasilUserAuthentication.java:72)
+com.mojang.authlib.yggdrasil.YggdrasilUserAuthentication.logIn(YggdrasilUserAuthentication.java:55)
+net.ftb.workers.AuthlibHelper.authenticateWithAuthlib(AuthlibHelper.java:60)
+net.ftb.workers.LoginWorker.doInBackground(LoginWorker.java:47)
+net.ftb.workers.LoginWorker.doInBackground(LoginWorker.java:30)
+javax.swing.SwingWorker$1.call(Unknown Source)
+java.util.concurrent.FutureTask.run(Unknown Source)
+javax.swing.SwingWorker.run(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+[14:17:26] [ERROR] ErrorUtils.tossError:33: Invalid username or password.
+[14:17:36] [INFO] LaunchFrame.doLogin:689: Logging in...
+[14:17:36] [INFO] AuthlibHelper.authenticateWithAuthlib:44: Beginning authlib authentication attempt
+[14:17:36] [INFO] AuthlibHelper.authenticateWithAuthlib:45: successfully created YggdrasilAuthenticationService
+[14:17:36] [ERROR] YggdrasilAuthenticationService.makeRequest:63->AuthlibHelper.authenticateWithAuthlib:66: Invalid credentials recieved for user: plasma77515@gmail.com: com.mojang.authlib.exceptions.InvalidCredentialsException: Invalid credentials. Invalid username or password.
+com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:63)
+com.mojang.authlib.yggdrasil.YggdrasilUserAuthentication.logInWithPassword(YggdrasilUserAuthentication.java:72)
+com.mojang.authlib.yggdrasil.YggdrasilUserAuthentication.logIn(YggdrasilUserAuthentication.java:55)
+net.ftb.workers.AuthlibHelper.authenticateWithAuthlib(AuthlibHelper.java:60)
+net.ftb.workers.LoginWorker.doInBackground(LoginWorker.java:47)
+net.ftb.workers.LoginWorker.doInBackground(LoginWorker.java:30)
+javax.swing.SwingWorker$1.call(Unknown Source)
+java.util.concurrent.FutureTask.run(Unknown Source)
+javax.swing.SwingWorker.run(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+[14:17:36] [ERROR] ErrorUtils.tossError:33: Invalid username or password.
+[14:17:52] [INFO] LaunchFrame.doLogin:689: Logging in...
+[14:17:52] [INFO] AuthlibHelper.authenticateWithAuthlib:44: Beginning authlib authentication attempt
+[14:17:52] [INFO] AuthlibHelper.authenticateWithAuthlib:45: successfully created YggdrasilAuthenticationService
+[14:17:52] [INFO] LaunchFrame$15.done:732: Login complete.
+[14:17:52] [INFO] LaunchFrame.initializeMods:1312: Monster
+[14:17:52] [INFO] ModManager$ModManagerWorker.downloadModPack:200: Downloading Mod Pack
+[14:21:06] [INFO] DownloadUtils.isValid:227: Local: 052DFD8A70A3F7EFEA8C3BA77DA86F6B
+[14:21:06] [INFO] DownloadUtils.isValid:228: Remote: 052DFD8A70A3F7EFEA8C3BA77DA86F6B
+[14:21:06] [INFO] ModManager.clearModsFolder:431: Mods Folder: D:\wamp\www\FTB\Monster\minecraft\mods
+[14:21:06] [INFO] ModManager.clearModsFolder:433: Dynamic Folder: C:\Users\Plasma LeBarDigital\AppData\Local\ftblauncher\ModPacks\Monster\minecraft\mods
+[14:21:11] [INFO] LaunchFrame.installMods:1151: dirs mk'd
+[14:21:13] [INFO] ModManager.cleanUp:417: debug: retaining modpack file: C:\Users\Plasma LeBarDigital\AppData\Local\ftblauncher\ModPacks\Monster\Monster.zip
+[14:21:15] [INFO] LaunchFrame.setupNewStyle:834: Gathering 1139 assets, this may take a while...
+[14:24:41] [INFO] LaunchFrame$16.done:845: Asset downloading complete
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:235: Syncing Assets:
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: READ_ME_I_AM_VERY_IMPORTANT.txt
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: icons/icon_16x16.png
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: icons/icon_32x32.png
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: icons/minecraft.icns
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: lang/af_ZA.lang
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: lang/ar_SA.lang
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: lang/bg_BG.lang
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: lang/ca_ES.lang
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: lang/cs_CZ.lang
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: lang/cy_GB.lang
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: lang/da_DK.lang
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: lang/de_DE.lang
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: lang/el_GR.lang
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: lang/en_AU.lang
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: lang/en_CA.lang
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: lang/en_GB.lang
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: lang/en_PT.lang
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: lang/eo_UY.lang
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: lang/es_AR.lang
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: lang/es_ES.lang
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: lang/es_MX.lang
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: lang/es_UY.lang
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: lang/es_VE.lang
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: lang/et_EE.lang
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: lang/eu_ES.lang
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: lang/fa_IR.lang
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: lang/fi_FI.lang
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: lang/fil_PH.lang
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: lang/fr_CA.lang
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: lang/fr_FR.lang
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: lang/ga_IE.lang
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: lang/gl_ES.lang
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: lang/he_IL.lang
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: lang/hi_IN.lang
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: lang/hr_HR.lang
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: lang/hu_HU.lang
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: lang/hy_AM.lang
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: lang/id_ID.lang
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: lang/is_IS.lang
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: lang/it_IT.lang
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: lang/ja_JP.lang
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: lang/ka_GE.lang
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: lang/ko_KR.lang
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: lang/kw_GB.lang
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: lang/la_LA.lang
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: lang/lb_LU.lang
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: lang/lt_LT.lang
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: lang/lv_LV.lang
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: lang/ms_MY.lang
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: lang/mt_MT.lang
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: lang/nl_NL.lang
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: lang/nn_NO.lang
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: lang/no_NO.lang
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: lang/oc_FR.lang
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: lang/pl_PL.lang
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: lang/pt_BR.lang
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: lang/pt_PT.lang
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: lang/qya_AA.lang
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: lang/ro_RO.lang
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: lang/ru_RU.lang
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: lang/sk_SK.lang
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: lang/sl_SI.lang
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: lang/sr_SP.lang
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: lang/sv_SE.lang
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: lang/th_TH.lang
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: lang/tlh_AA.lang
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: lang/tr_TR.lang
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: lang/uk_UA.lang
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: lang/vi_VN.lang
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: lang/zh_CN.lang
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: lang/zh_TW.lang
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: music/calm1.ogg
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: music/calm2.ogg
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: music/calm3.ogg
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: music/hal1.ogg
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: music/hal2.ogg
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: music/hal3.ogg
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: music/hal4.ogg
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: music/nuance1.ogg
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: music/nuance2.ogg
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: music/piano1.ogg
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: music/piano2.ogg
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: music/piano3.ogg
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: pack.mcmeta
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: records/11.ogg
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: records/13.ogg
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: records/blocks.ogg
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: records/cat.ogg
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: records/chirp.ogg
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: records/far.ogg
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: records/mall.ogg
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: records/mellohi.ogg
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: records/stal.ogg
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: records/strad.ogg
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: records/wait.ogg
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: records/ward.ogg
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/ambient/cave/cave1.ogg
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/ambient/cave/cave10.ogg
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/ambient/cave/cave11.ogg
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/ambient/cave/cave12.ogg
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/ambient/cave/cave13.ogg
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/ambient/cave/cave2.ogg
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/ambient/cave/cave3.ogg
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/ambient/cave/cave4.ogg
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/ambient/cave/cave5.ogg
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/ambient/cave/cave6.ogg
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/ambient/cave/cave7.ogg
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/ambient/cave/cave8.ogg
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/ambient/cave/cave9.ogg
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/ambient/weather/rain1.ogg
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/ambient/weather/rain2.ogg
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/ambient/weather/rain3.ogg
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/ambient/weather/rain4.ogg
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/ambient/weather/thunder1.ogg
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/ambient/weather/thunder2.ogg
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/ambient/weather/thunder3.ogg
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/damage/fallbig.ogg
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/damage/fallsmall.ogg
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/damage/hit1.ogg
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/damage/hit2.ogg
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/damage/hit3.ogg
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/dig/cloth1.ogg
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/dig/cloth2.ogg
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/dig/cloth3.ogg
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/dig/cloth4.ogg
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/dig/grass1.ogg
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/dig/grass2.ogg
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/dig/grass3.ogg
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/dig/grass4.ogg
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/dig/gravel1.ogg
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/dig/gravel2.ogg
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/dig/gravel3.ogg
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/dig/gravel4.ogg
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/dig/sand1.ogg
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/dig/sand2.ogg
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/dig/sand3.ogg
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/dig/sand4.ogg
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/dig/snow1.ogg
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/dig/snow2.ogg
+[14:24:41] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/dig/snow3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/dig/snow4.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/dig/stone1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/dig/stone2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/dig/stone3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/dig/stone4.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/dig/wood1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/dig/wood2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/dig/wood3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/dig/wood4.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/fire/fire.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/fire/ignite.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/fireworks/blast1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/fireworks/blast_far1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/fireworks/largeBlast1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/fireworks/largeBlast_far1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/fireworks/launch1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/fireworks/twinkle1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/fireworks/twinkle_far1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/liquid/lava.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/liquid/lavapop.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/liquid/splash.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/liquid/splash2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/liquid/swim1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/liquid/swim2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/liquid/swim3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/liquid/swim4.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/liquid/water.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/minecart/base.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/minecart/inside.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/bat/death.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/bat/hurt1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/bat/hurt2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/bat/hurt3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/bat/hurt4.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/bat/idle1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/bat/idle2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/bat/idle3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/bat/idle4.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/bat/loop.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/bat/takeoff.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/blaze/breathe1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/blaze/breathe2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/blaze/breathe3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/blaze/breathe4.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/blaze/death.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/blaze/hit1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/blaze/hit2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/blaze/hit3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/blaze/hit4.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/cat/hiss1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/cat/hiss2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/cat/hiss3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/cat/hitt1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/cat/hitt2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/cat/hitt3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/cat/meow1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/cat/meow2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/cat/meow3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/cat/meow4.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/cat/purr1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/cat/purr2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/cat/purr3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/cat/purreow1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/cat/purreow2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/chicken/hurt1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/chicken/hurt2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/chicken/plop.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/chicken/say1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/chicken/say2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/chicken/say3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/chicken/step1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/chicken/step2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/cow/hurt1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/cow/hurt2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/cow/hurt3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/cow/say1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/cow/say2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/cow/say3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/cow/say4.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/cow/step1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/cow/step2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/cow/step3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/cow/step4.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/creeper/death.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/creeper/say1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/creeper/say2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/creeper/say3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/creeper/say4.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/enderdragon/end.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/enderdragon/growl1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/enderdragon/growl2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/enderdragon/growl3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/enderdragon/growl4.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/enderdragon/hit1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/enderdragon/hit2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/enderdragon/hit3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/enderdragon/hit4.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/enderdragon/wings1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/enderdragon/wings2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/enderdragon/wings3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/enderdragon/wings4.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/enderdragon/wings5.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/enderdragon/wings6.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/endermen/death.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/endermen/hit1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/endermen/hit2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/endermen/hit3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/endermen/hit4.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/endermen/idle1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/endermen/idle2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/endermen/idle3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/endermen/idle4.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/endermen/idle5.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/endermen/portal.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/endermen/portal2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/endermen/scream1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/endermen/scream2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/endermen/scream3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/endermen/scream4.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/endermen/stare.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/ghast/affectionate_scream.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/ghast/charge.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/ghast/death.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/ghast/fireball4.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/ghast/moan1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/ghast/moan2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/ghast/moan3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/ghast/moan4.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/ghast/moan5.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/ghast/moan6.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/ghast/moan7.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/ghast/scream1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/ghast/scream2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/ghast/scream3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/ghast/scream4.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/ghast/scream5.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/horse/angry1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/horse/armor.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/horse/breathe1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/horse/breathe2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/horse/breathe3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/horse/death.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/horse/donkey/angry1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/horse/donkey/angry2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/horse/donkey/death.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/horse/donkey/hit1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/horse/donkey/hit2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/horse/donkey/hit3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/horse/donkey/idle1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/horse/donkey/idle2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/horse/donkey/idle3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/horse/gallop1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/horse/gallop2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/horse/gallop3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/horse/gallop4.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/horse/hit1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/horse/hit2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/horse/hit3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/horse/hit4.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/horse/idle1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/horse/idle2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/horse/idle3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/horse/jump.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/horse/land.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/horse/leather.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/horse/skeleton/death.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/horse/skeleton/hit1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/horse/skeleton/hit2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/horse/skeleton/hit3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/horse/skeleton/hit4.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/horse/skeleton/idle1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/horse/skeleton/idle2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/horse/skeleton/idle3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/horse/soft1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/horse/soft2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/horse/soft3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/horse/soft4.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/horse/soft5.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/horse/soft6.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/horse/wood1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/horse/wood2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/horse/wood3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/horse/wood4.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/horse/wood5.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/horse/wood6.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/horse/zombie/death.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/horse/zombie/hit1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/horse/zombie/hit2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/horse/zombie/hit3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/horse/zombie/hit4.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/horse/zombie/idle1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/horse/zombie/idle2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/horse/zombie/idle3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/irongolem/death.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/irongolem/hit1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/irongolem/hit2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/irongolem/hit3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/irongolem/hit4.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/irongolem/throw.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/irongolem/walk1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/irongolem/walk2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/irongolem/walk3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/irongolem/walk4.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/magmacube/big1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/magmacube/big2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/magmacube/big3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/magmacube/big4.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/magmacube/jump1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/magmacube/jump2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/magmacube/jump3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/magmacube/jump4.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/magmacube/small1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/magmacube/small2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/magmacube/small3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/magmacube/small4.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/magmacube/small5.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/pig/death.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/pig/say1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/pig/say2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/pig/say3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/pig/step1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/pig/step2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/pig/step3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/pig/step4.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/pig/step5.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/sheep/say1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/sheep/say2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/sheep/say3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/sheep/shear.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/sheep/step1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/sheep/step2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/sheep/step3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/sheep/step4.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/sheep/step5.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/silverfish/hit1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/silverfish/hit2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/silverfish/hit3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/silverfish/kill.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/silverfish/say1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/silverfish/say2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/silverfish/say3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/silverfish/say4.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/silverfish/step1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/silverfish/step2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/silverfish/step3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/silverfish/step4.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/skeleton/death.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/skeleton/hurt1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/skeleton/hurt2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/skeleton/hurt3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/skeleton/hurt4.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/skeleton/say1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/skeleton/say2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/skeleton/say3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/skeleton/step1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/skeleton/step2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/skeleton/step3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/skeleton/step4.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/slime/attack1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/slime/attack2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/slime/big1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/slime/big2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/slime/big3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/slime/big4.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/slime/small1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/slime/small2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/slime/small3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/slime/small4.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/slime/small5.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/spider/death.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/spider/say1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/spider/say2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/spider/say3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/spider/say4.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/spider/step1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/spider/step2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/spider/step3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/spider/step4.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/villager/death.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/villager/haggle1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/villager/haggle2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/villager/haggle3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/villager/hit1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/villager/hit2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/villager/hit3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/villager/hit4.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/villager/idle1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/villager/idle2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/villager/idle3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/villager/no1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/villager/no2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/villager/no3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/villager/yes1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/villager/yes2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/villager/yes3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/wither/death.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/wither/hurt1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/wither/hurt2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/wither/hurt3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/wither/hurt4.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/wither/idle1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/wither/idle2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/wither/idle3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/wither/idle4.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/wither/shoot.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/wither/spawn.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/wolf/bark1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/wolf/bark2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/wolf/bark3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/wolf/death.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/wolf/growl1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/wolf/growl2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/wolf/growl3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/wolf/howl1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/wolf/howl2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/wolf/hurt1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/wolf/hurt2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/wolf/hurt3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/wolf/panting.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/wolf/shake.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/wolf/step1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/wolf/step2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/wolf/step3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/wolf/step4.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/wolf/step5.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/wolf/whine.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/zombie/death.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/zombie/hurt1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/zombie/hurt2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/zombie/infect.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/zombie/metal1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/zombie/metal2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/zombie/metal3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/zombie/remedy.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/zombie/say1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/zombie/say2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/zombie/say3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/zombie/step1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/zombie/step2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/zombie/step3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/zombie/step4.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/zombie/step5.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/zombie/unfect.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/zombie/wood1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/zombie/wood2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/zombie/wood3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/zombie/wood4.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/zombie/woodbreak.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/zombiepig/zpig1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/zombiepig/zpig2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/zombiepig/zpig3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/zombiepig/zpig4.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/zombiepig/zpigangry1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/zombiepig/zpigangry2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/zombiepig/zpigangry3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/zombiepig/zpigangry4.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/zombiepig/zpigdeath.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/zombiepig/zpighurt1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/mob/zombiepig/zpighurt2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/note/bass.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/note/bassattack.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/note/bd.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/note/harp.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/note/hat.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/note/pling.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/note/snare.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/portal/portal.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/portal/travel.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/portal/trigger.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/random/anvil_break.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/random/anvil_land.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/random/anvil_use.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/random/bow.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/random/bowhit1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/random/bowhit2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/random/bowhit3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/random/bowhit4.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/random/break.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/random/breath.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/random/burp.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/random/chestclosed.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/random/chestopen.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/random/classic_hurt.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/random/click.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/random/door_close.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/random/door_open.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/random/drink.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/random/eat1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/random/eat2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/random/eat3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/random/explode1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/random/explode2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/random/explode3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/random/explode4.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/random/fizz.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/random/fuse.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/random/glass1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/random/glass2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/random/glass3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/random/levelup.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/random/orb.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/random/pop.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/random/splash.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/random/successful_hit.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/random/wood_click.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/step/cloth1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/step/cloth2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/step/cloth3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/step/cloth4.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/step/grass1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/step/grass2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/step/grass3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/step/grass4.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/step/grass5.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/step/grass6.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/step/gravel1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/step/gravel2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/step/gravel3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/step/gravel4.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/step/ladder1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/step/ladder2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/step/ladder3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/step/ladder4.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/step/ladder5.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/step/sand1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/step/sand2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/step/sand3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/step/sand4.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/step/sand5.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/step/snow1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/step/snow2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/step/snow3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/step/snow4.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/step/stone1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/step/stone2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/step/stone3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/step/stone4.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/step/stone5.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/step/stone6.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/step/wood1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/step/wood2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/step/wood3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/step/wood4.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/step/wood5.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/step/wood6.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/tile/piston/in.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sound/tile/piston/out.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds.json
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/ambient/cave/cave1.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/ambient/cave/cave10.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/ambient/cave/cave11.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/ambient/cave/cave12.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/ambient/cave/cave13.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/ambient/cave/cave2.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/ambient/cave/cave3.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/ambient/cave/cave4.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/ambient/cave/cave5.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/ambient/cave/cave6.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/ambient/cave/cave7.ogg
+[14:24:42] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/ambient/cave/cave8.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/ambient/cave/cave9.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/ambient/weather/rain1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/ambient/weather/rain2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/ambient/weather/rain3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/ambient/weather/rain4.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/ambient/weather/thunder1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/ambient/weather/thunder2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/ambient/weather/thunder3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/damage/fallbig.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/damage/fallsmall.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/damage/hit1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/damage/hit2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/damage/hit3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/dig/cloth1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/dig/cloth2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/dig/cloth3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/dig/cloth4.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/dig/grass1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/dig/grass2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/dig/grass3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/dig/grass4.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/dig/gravel1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/dig/gravel2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/dig/gravel3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/dig/gravel4.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/dig/sand1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/dig/sand2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/dig/sand3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/dig/sand4.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/dig/snow1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/dig/snow2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/dig/snow3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/dig/snow4.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/dig/stone1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/dig/stone2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/dig/stone3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/dig/stone4.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/dig/wood1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/dig/wood2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/dig/wood3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/dig/wood4.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/fire/fire.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/fire/ignite.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/fireworks/blast1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/fireworks/blast_far1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/fireworks/largeBlast1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/fireworks/largeBlast_far1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/fireworks/launch1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/fireworks/twinkle1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/fireworks/twinkle_far1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/liquid/lava.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/liquid/lavapop.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/liquid/splash.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/liquid/splash2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/liquid/swim1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/liquid/swim2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/liquid/swim3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/liquid/swim4.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/liquid/water.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/minecart/base.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/minecart/inside.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/bat/death.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/bat/hurt1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/bat/hurt2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/bat/hurt3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/bat/hurt4.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/bat/idle1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/bat/idle2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/bat/idle3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/bat/idle4.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/bat/loop.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/bat/takeoff.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/blaze/breathe1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/blaze/breathe2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/blaze/breathe3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/blaze/breathe4.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/blaze/death.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/blaze/hit1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/blaze/hit2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/blaze/hit3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/blaze/hit4.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/cat/hiss1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/cat/hiss2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/cat/hiss3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/cat/hitt1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/cat/hitt2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/cat/hitt3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/cat/meow1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/cat/meow2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/cat/meow3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/cat/meow4.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/cat/purr1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/cat/purr2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/cat/purr3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/cat/purreow1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/cat/purreow2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/chicken/hurt1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/chicken/hurt2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/chicken/plop.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/chicken/say1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/chicken/say2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/chicken/say3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/chicken/step1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/chicken/step2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/cow/hurt1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/cow/hurt2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/cow/hurt3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/cow/say1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/cow/say2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/cow/say3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/cow/say4.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/cow/step1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/cow/step2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/cow/step3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/cow/step4.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/creeper/death.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/creeper/say1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/creeper/say2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/creeper/say3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/creeper/say4.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/enderdragon/end.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/enderdragon/growl1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/enderdragon/growl2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/enderdragon/growl3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/enderdragon/growl4.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/enderdragon/hit1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/enderdragon/hit2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/enderdragon/hit3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/enderdragon/hit4.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/enderdragon/wings1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/enderdragon/wings2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/enderdragon/wings3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/enderdragon/wings4.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/enderdragon/wings5.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/enderdragon/wings6.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/endermen/death.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/endermen/hit1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/endermen/hit2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/endermen/hit3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/endermen/hit4.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/endermen/idle1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/endermen/idle2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/endermen/idle3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/endermen/idle4.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/endermen/idle5.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/endermen/portal.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/endermen/portal2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/endermen/scream1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/endermen/scream2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/endermen/scream3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/endermen/scream4.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/endermen/stare.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/ghast/affectionate_scream.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/ghast/charge.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/ghast/death.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/ghast/fireball4.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/ghast/moan1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/ghast/moan2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/ghast/moan3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/ghast/moan4.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/ghast/moan5.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/ghast/moan6.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/ghast/moan7.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/ghast/scream1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/ghast/scream2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/ghast/scream3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/ghast/scream4.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/ghast/scream5.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/horse/angry1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/horse/armor.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/horse/breathe1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/horse/breathe2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/horse/breathe3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/horse/death.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/horse/donkey/angry1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/horse/donkey/angry2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/horse/donkey/death.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/horse/donkey/hit1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/horse/donkey/hit2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/horse/donkey/hit3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/horse/donkey/idle1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/horse/donkey/idle2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/horse/donkey/idle3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/horse/gallop1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/horse/gallop2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/horse/gallop3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/horse/gallop4.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/horse/hit1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/horse/hit2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/horse/hit3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/horse/hit4.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/horse/idle1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/horse/idle2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/horse/idle3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/horse/jump.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/horse/land.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/horse/leather.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/horse/skeleton/death.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/horse/skeleton/hit1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/horse/skeleton/hit2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/horse/skeleton/hit3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/horse/skeleton/hit4.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/horse/skeleton/idle1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/horse/skeleton/idle2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/horse/skeleton/idle3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/horse/soft1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/horse/soft2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/horse/soft3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/horse/soft4.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/horse/soft5.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/horse/soft6.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/horse/wood1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/horse/wood2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/horse/wood3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/horse/wood4.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/horse/wood5.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/horse/wood6.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/horse/zombie/death.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/horse/zombie/hit1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/horse/zombie/hit2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/horse/zombie/hit3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/horse/zombie/hit4.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/horse/zombie/idle1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/horse/zombie/idle2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/horse/zombie/idle3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/irongolem/death.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/irongolem/hit1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/irongolem/hit2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/irongolem/hit3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/irongolem/hit4.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/irongolem/throw.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/irongolem/walk1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/irongolem/walk2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/irongolem/walk3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/irongolem/walk4.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/magmacube/big1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/magmacube/big2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/magmacube/big3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/magmacube/big4.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/magmacube/jump1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/magmacube/jump2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/magmacube/jump3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/magmacube/jump4.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/magmacube/small1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/magmacube/small2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/magmacube/small3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/magmacube/small4.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/magmacube/small5.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/pig/death.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/pig/say1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/pig/say2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/pig/say3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/pig/step1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/pig/step2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/pig/step3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/pig/step4.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/pig/step5.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/sheep/say1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/sheep/say2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/sheep/say3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/sheep/shear.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/sheep/step1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/sheep/step2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/sheep/step3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/sheep/step4.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/sheep/step5.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/silverfish/hit1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/silverfish/hit2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/silverfish/hit3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/silverfish/kill.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/silverfish/say1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/silverfish/say2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/silverfish/say3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/silverfish/say4.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/silverfish/step1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/silverfish/step2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/silverfish/step3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/silverfish/step4.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/skeleton/death.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/skeleton/hurt1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/skeleton/hurt2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/skeleton/hurt3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/skeleton/hurt4.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/skeleton/say1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/skeleton/say2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/skeleton/say3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/skeleton/step1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/skeleton/step2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/skeleton/step3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/skeleton/step4.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/slime/attack1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/slime/attack2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/slime/big1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/slime/big2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/slime/big3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/slime/big4.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/slime/small1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/slime/small2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/slime/small3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/slime/small4.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/slime/small5.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/spider/death.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/spider/say1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/spider/say2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/spider/say3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/spider/say4.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/spider/step1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/spider/step2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/spider/step3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/spider/step4.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/villager/death.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/villager/haggle1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/villager/haggle2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/villager/haggle3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/villager/hit1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/villager/hit2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/villager/hit3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/villager/hit4.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/villager/idle1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/villager/idle2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/villager/idle3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/villager/no1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/villager/no2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/villager/no3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/villager/yes1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/villager/yes2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/villager/yes3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/wither/death.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/wither/hurt1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/wither/hurt2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/wither/hurt3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/wither/hurt4.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/wither/idle1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/wither/idle2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/wither/idle3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/wither/idle4.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/wither/shoot.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/wither/spawn.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/wolf/bark1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/wolf/bark2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/wolf/bark3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/wolf/death.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/wolf/growl1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/wolf/growl2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/wolf/growl3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/wolf/howl1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/wolf/howl2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/wolf/hurt1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/wolf/hurt2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/wolf/hurt3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/wolf/panting.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/wolf/shake.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/wolf/step1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/wolf/step2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/wolf/step3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/wolf/step4.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/wolf/step5.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/wolf/whine.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/zombie/death.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/zombie/hurt1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/zombie/hurt2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/zombie/infect.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/zombie/metal1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/zombie/metal2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/zombie/metal3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/zombie/remedy.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/zombie/say1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/zombie/say2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/zombie/say3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/zombie/step1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/zombie/step2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/zombie/step3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/zombie/step4.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/zombie/step5.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/zombie/unfect.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/zombie/wood1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/zombie/wood2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/zombie/wood3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/zombie/wood4.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/zombie/woodbreak.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/zombiepig/zpig1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/zombiepig/zpig2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/zombiepig/zpig3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/zombiepig/zpig4.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/zombiepig/zpigangry1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/zombiepig/zpigangry2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/zombiepig/zpigangry3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/zombiepig/zpigangry4.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/zombiepig/zpigdeath.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/zombiepig/zpighurt1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/mob/zombiepig/zpighurt2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/music/game/calm1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/music/game/calm2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/music/game/calm3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/music/game/creative/creative1.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/music/game/creative/creative2.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/music/game/creative/creative3.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/music/game/creative/creative4.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/music/game/creative/creative5.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/music/game/creative/creative6.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/music/game/end/boss.ogg
+[14:24:43] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/music/game/end/credits.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/music/game/end/end.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/music/game/hal1.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/music/game/hal2.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/music/game/hal3.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/music/game/hal4.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/music/game/nether/nether1.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/music/game/nether/nether2.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/music/game/nether/nether3.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/music/game/nether/nether4.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/music/game/nuance1.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/music/game/nuance2.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/music/game/piano1.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/music/game/piano2.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/music/game/piano3.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/music/menu/menu1.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/music/menu/menu2.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/music/menu/menu3.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/music/menu/menu4.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/note/bass.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/note/bassattack.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/note/bd.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/note/harp.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/note/hat.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/note/pling.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/note/snare.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/portal/portal.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/portal/travel.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/portal/trigger.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/random/anvil_break.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/random/anvil_land.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/random/anvil_use.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/random/bow.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/random/bowhit1.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/random/bowhit2.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/random/bowhit3.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/random/bowhit4.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/random/break.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/random/breath.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/random/burp.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/random/chestclosed.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/random/chestopen.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/random/classic_hurt.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/random/click.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/random/door_close.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/random/door_open.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/random/drink.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/random/eat1.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/random/eat2.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/random/eat3.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/random/explode1.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/random/explode2.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/random/explode3.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/random/explode4.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/random/fizz.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/random/fuse.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/random/glass1.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/random/glass2.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/random/glass3.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/random/levelup.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/random/orb.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/random/pop.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/random/splash.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/random/successful_hit.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/random/wood_click.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/records/11.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/records/13.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/records/blocks.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/records/cat.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/records/chirp.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/records/far.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/records/mall.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/records/mellohi.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/records/stal.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/records/strad.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/records/wait.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/records/ward.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/step/cloth1.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/step/cloth2.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/step/cloth3.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/step/cloth4.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/step/grass1.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/step/grass2.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/step/grass3.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/step/grass4.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/step/grass5.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/step/grass6.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/step/gravel1.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/step/gravel2.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/step/gravel3.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/step/gravel4.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/step/ladder1.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/step/ladder2.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/step/ladder3.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/step/ladder4.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/step/ladder5.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/step/sand1.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/step/sand2.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/step/sand3.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/step/sand4.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/step/sand5.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/step/snow1.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/step/snow2.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/step/snow3.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/step/snow4.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/step/stone1.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/step/stone2.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/step/stone3.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/step/stone4.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/step/stone5.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/step/stone6.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/step/wood1.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/step/wood2.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/step/wood3.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/step/wood4.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/step/wood5.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/step/wood6.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/tile/piston/in.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.syncAssets:257:   Added: sounds/tile/piston/out.ogg
+[14:24:44] [INFO] MinecraftLauncherNew.launchMinecraft:71: Java Path: D:\Program Files\Java\jre7\bin\javaw.exe
+[14:24:44] [INFO] MinecraftLauncherNew.launchMinecraft:72: Pack: Monster 1.6.4
+[14:24:44] [INFO] MinecraftLauncherNew.setMemory:218: Setting MinMemory to 256
+[14:24:44] [INFO] MinecraftLauncherNew.setMemory:220: Setting MaxMemory to 2048
+[14:24:44] [INFO] MinecraftLauncherNew.launchMinecraft:94: Defaulting PermSize to 256m
